@@ -1,0 +1,19 @@
+There are three type of database.
+
+1. structured database. SQL.
+2. semi-structured database. NoSQL.
+3. un-structured database. (object based data).
+
+Azure offers 
+
+1. Blob storage for storing object based data.
+2. File share storage which is for storing and sharing files across multiple instances. 
+It is replacement of NAS and FAS services from onpremises on cloud.
+3. Table storage.
+4. Queue services.
+
+Blob
+    1. block blob - unstructured data
+    2. page blob - vhd files or r/w ops.
+    3. append blob - logging purpose.
+
